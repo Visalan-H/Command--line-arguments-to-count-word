@@ -23,8 +23,8 @@ After the loop, print the total word count stored in the count variable.
 ```
 /*
 Program to  get the word count from the contents of a file using command line arguments:
-Register number: 212223100049
-Developed by: S.Sajetha
+Register number: 212223230183
+Developed by: Visalan H
 */
 
 import sys
